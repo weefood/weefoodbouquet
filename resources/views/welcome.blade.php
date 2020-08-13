@@ -82,8 +82,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     Under Maintenance<br>
-                    <small>- HERN</small>
                 </div>
+                <small>- HERN</small>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
