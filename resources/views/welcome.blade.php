@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Under Maintenance<br>
+                    <small>- HERN</small>
                 </div>
 
                 <div class="links">
